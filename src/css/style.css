@@ -1,7 +1,16 @@
-ul{
+ul {
     display: flex;
 }
-li{
+
+li {
     list-style: none;
     margin-left: 200px;
+}
+
+th {
+    border: 3px solid black;
+}
+
+td {
+    border: 1px solid green;
 }
